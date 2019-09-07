@@ -3,3 +3,4 @@ new text
 a
 h
 h
+a
